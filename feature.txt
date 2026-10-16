@@ -1,0 +1,2 @@
+git stash example
+example not staged so will store in stash
